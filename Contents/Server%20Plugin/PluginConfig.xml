@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginConfig>
+<Field id="lblFoo" type="label">
+	<Label>Modified by Ramias for Zone 2</Label>
+</Field>
+</PluginConfig>
